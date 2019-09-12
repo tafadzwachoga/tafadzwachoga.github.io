@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Tafadzwa Choga"
 title_separator          : "-"
-subtitle                 : "Sensei San" # site tagline that appears below site title in masthead
+subtitle                 : "Artist" # site tagline that appears below site title in masthead
 name                     : "Tafadzwa Choga"
 description              : "Art & Design Portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
