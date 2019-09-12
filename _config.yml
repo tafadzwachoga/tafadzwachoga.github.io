@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Tafadzwa Choga"
+  avatar           : "/images/IMG_8446.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "My purpose is to create, and my hope is it has a purpose for me"
+  location         : "Cape Town, South Africa"
+  email            : "tafadzwchoga@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:tafieearl@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -130,7 +130,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/clemencepadya/"
 
 # Site Footer
 footer:
