@@ -18,7 +18,7 @@ Mixed media on paper,
 
 
 
-Astrophysicist
+<u> Astrophysicist </u>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/00000011.jpg" width="2000" height="1600" alt="astrophysicist">
 
