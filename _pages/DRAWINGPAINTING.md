@@ -6,7 +6,7 @@ author_profile: true
 header:
   image: "/images/A2-death&werewolf.jpg"
 ---
-spacebeetle
+**spacebeetle**
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/spacebeetle.jpg" width="2000" height="1600" alt="space Beetle">
 
@@ -18,7 +18,7 @@ Mixed media on paper,
 
 ---
 
-<u> Astrophysicist </u>
+**Astrophysicist**
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/00000011.jpg" width="2000" height="1600" alt="astrophysicist">
 
