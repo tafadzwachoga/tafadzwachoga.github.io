@@ -5,7 +5,9 @@ header:
   image: "/images/vlcsnap-2018-11-03-09h35m24s780.png"
 ---
 
-   LOL, power is addictiv.
+   LOL, power is **Addictiv**.
+
+
 
    Welcome to my space on the webs. This is where I post my full artworks for your visual, mental stimulation and my expression through various techniques I have accumulated over the past couple decades.
    I enjoy learning and becoming better as an artist and person each day. Peace & Love always.
