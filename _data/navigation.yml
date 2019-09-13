@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Printmaking"
     url:  /printmaking/
-    # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Drawing / Painting" # - title: "About"
+    url: /drawing-painting/ #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
