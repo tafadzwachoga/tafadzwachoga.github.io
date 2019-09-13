@@ -6,6 +6,8 @@ excerpt: "Space Beetle"
 header: "Space Beetle"
 ---
 
+Space Beetle
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/spacebeetle.jpg" width="2000" height="1600" alt="space Beetle">
 
 A3 Size
