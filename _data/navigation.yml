@@ -5,7 +5,7 @@ main:
   - title: "Printmaking"
     url:  /printmaking/
   - title: "Drawing / Painting" # - title: "About"
-    url: /drawing-painting/ #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /drawingpainting/ #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
