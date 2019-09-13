@@ -6,6 +6,8 @@ author_profile: true
 header:
   image: "/images/A2-death&werewolf.jpg"
 ---
+spacebeetle
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/spacebeetle.jpg" width="2000" height="1600" alt="space Beetle">
 
 A3 Size
