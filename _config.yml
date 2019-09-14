@@ -109,8 +109,9 @@ analytics:
 author:
   name             : "Tafadzwa Choga"
   avatar           : "/images/IMG_8446.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My purpose is to create, my hope is it has a purpose for me."
+  bio              : "My purpose is to create, and my hope is it has a purpose for me."
   location         : "Cape Town, South Africa"
+  email            : "tafieearl@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -126,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      "https://tafadzwachoga.github.io/"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/tafiearl/"
@@ -291,5 +292,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-theme: jekyll-theme-minimal
