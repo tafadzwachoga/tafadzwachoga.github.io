@@ -42,3 +42,13 @@ Woodcut Print on paper & Hand Painting,
 **2018**.
 
 ---
+
+**Jongwe III**
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/00000012.jpg" width="2000" height="1600" alt="jongwethree">
+
+A3 Size
+
+Woodcut Print on paper & Hand Painting,
+
+**2018**
