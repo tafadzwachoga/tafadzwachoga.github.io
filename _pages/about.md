@@ -1,8 +1,8 @@
 ---
-title: "ABOUT"
+title: "About"
 permalink: /about/
-header:
-  image: "/images/vlcsnap-2018-11-03-09h35m24s780.png"
+header: **"About"**
+  image: "/images/Tafadzwa-Choga-LOGO.png"
 ---
 
    LOL, power is **Addictiv**.
