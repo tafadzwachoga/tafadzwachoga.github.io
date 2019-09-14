@@ -6,7 +6,8 @@ main:
     url:  /printmaking/
   - title: "Drawing / Painting"
     url: /drawingpainting/
-  # - title: "Sample Posts"
+  - title: "Graphic Design"
+    url:  "/graphicdesign/"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
