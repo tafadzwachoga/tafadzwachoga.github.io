@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-header: **"About"**
+header:
   image: "/images/Tafadzwa-Choga-LOGO.png"
 ---
 
