@@ -8,7 +8,7 @@ header: "Sstilllifepenink"
 
 stilllifepenink
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/.jpg" width="2000" height="1600" alt="Bic - Sstilllifepenink">
+<img src="{{ site.url }}{{ site.baseurl }}/images/stilllifepenink.jpg" width="2000" height="1600" alt="Bic - Sstilllifepenink">
 
 A3 Size
 Pen  & Ink on paper,
