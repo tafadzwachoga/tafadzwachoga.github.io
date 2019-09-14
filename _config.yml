@@ -111,7 +111,6 @@ author:
   avatar           : "/images/IMG_8446.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My purpose is to create, my hope is it has a purpose for me."
   location         : "Cape Town, South Africa"
-  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

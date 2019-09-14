@@ -55,7 +55,7 @@ Woodcut Print on paper & Hand Painting,
 
 ---
 
-**Self Portrait Woodblock Print, Digital Coloring**.
+**Self Portrait Woodcut Print, Digital Coloring**.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/upside-01.jpg" width="2000" height="1600" alt="Woodcut print,digital coloring">
 
@@ -64,3 +64,5 @@ A4 Size
 Mixed media
 
 **2018**.
+
+---
