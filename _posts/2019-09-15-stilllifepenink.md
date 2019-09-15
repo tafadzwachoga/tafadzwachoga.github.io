@@ -12,7 +12,7 @@ stilllifepenink
 
 A3 Size
 
-Pen  & Ink on paper,
+Pen & Ink on paper,
 
 2018
 
