@@ -70,3 +70,13 @@ Mixed media on paper,
 **2019**.
 
 ---
+
+**Flying Fish**
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/00000014.jpg" width="2000" height="1600" alt="Flying Fish">
+
+A3 Size
+
+Mixed media on paper,
+
+**2019**.
