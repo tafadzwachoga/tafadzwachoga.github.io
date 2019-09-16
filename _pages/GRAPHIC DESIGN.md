@@ -17,3 +17,11 @@ header:
 **2018**.
 
 ---
+
+**Pyramids & floating heads**
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/wewe4terquise.jpg" width="2000" height="1600" alt="Pyramids & floating heads">
+
+2388 / 2404 Pixels, Adobe Photoshop
+
+**2019**.
